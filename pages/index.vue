@@ -24,7 +24,7 @@
         </a>
       </div>
     </div> -->
-        <a href="#" class="flex items-center flex-row py-2 px-4 bg-white"><img src="../assets/img/bxl-chrome.svg" alt="" class="pr-3"> Télécharger pour Chrome</a>
+        <a href="#" class="flex items-center flex-row py-2 px-4 bg-white rounded-lg"><img src="../assets/img/bxl-chrome.svg" alt="" class="pr-3"> Télécharger pour Chrome</a>
   </div>
 </template>
 
