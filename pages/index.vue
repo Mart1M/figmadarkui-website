@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div>
+    <!-- <div>
       <Logo />
       <h1 class="title">
         figmadarkui
@@ -23,7 +23,8 @@
           GitHub
         </a>
       </div>
-    </div>
+    </div> -->
+        <a href="#" class="flex items-center flex-row py-2 px-4 bg-white"><img src="../assets/img/bxl-chrome.svg" alt="" class="pr-3"> Télécharger pour Chrome</a>
   </div>
 </template>
 
