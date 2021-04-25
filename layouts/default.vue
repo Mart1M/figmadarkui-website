@@ -7,14 +7,8 @@
 <style>
 html {
   font-family:
-    'Source Sans Pro',
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    Roboto,
-    'Helvetica Neue',
-    Arial,
-    sans-serif;
+    'Poppins', sans-serif;
+  font-weight: 400;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
@@ -31,6 +25,10 @@ html {
   margin: 0;
 }
 
+body{
+  background-color: #121212;
+  overflow: hidden;
+}
 .button--green {
   display: inline-block;
   border-radius: 4px;
