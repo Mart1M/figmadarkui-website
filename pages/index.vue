@@ -1,7 +1,7 @@
 <template>
   <div>
     <Header />
-    <div class="flex flex-col items-center mt-32 z-50 relative">
+    <div class="flex flex-col items-center mt-8 lg:mt-32 z-50 relative">
       <img src="../assets/img/logo.svg" alt="" srcset="" class="mb-16">
     </div>
     <section class="grid grid-cols-1 gap-4 2xl:mx-96 2xl:px-16 lg:mx-32 mx-8 md:grid-cols-3 mb-8 l:mb:0">
@@ -43,7 +43,7 @@
           <span class="font-semibold text-white">Download for MacOS</span>
         </div>
       </a>
-      <a href="" class="flex items-center rounded-lg bg-gray-900 space-x-4 px-4 py-2">
+      <a class="flex items-center rounded-lg bg-gray-900 space-x-4 px-4 py-2 windows">
         <img src="../assets/img/windows.png" alt="" srcset="" class="w-8 h-8">
         <div class="flex flex-col">
           <span class="font-semibold text-gray-500">Download for Windows (coming soon)</span>
@@ -59,7 +59,9 @@
 
     
 
-
+  <p class="text-gray-500 absolute bottom-0 text-sm p-2">
+    Made with ❤️ by <a href="https://www.linkedin.com/in/martin-molcrette-573a8017a/" target="_blank" class="underline">Martin Molcrette</a>
+  </p>
 
   </div>
 </template>
@@ -78,5 +80,8 @@ export default {}
   background-size: cover;
   background-position: bottom 50%;
   background-repeat: no-repeat;
+}
+.windows:hover{
+  cursor: not-allowed;
 }
 </style>
