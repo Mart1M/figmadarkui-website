@@ -1,10 +1,10 @@
 <template>
   <div>
+    <Header />
     <div class="flex flex-col items-center mt-32 z-50 relative">
-      <img src="../assets/img/logo.svg" alt="" srcset="">
-      <h1 class="text-white font-bold text-4xl mb-16 mt-4">Figma Dark UI</h1>
+      <img src="../assets/img/logo.svg" alt="" srcset="" class="mb-16">
     </div>
-    <section class="grid grid-cols-1 gap-4 2xl:mx-96 2xl:px-16 lg:mx-32 mx-8 md:grid-cols-3 mb-24 l:mb:0">
+    <section class="grid grid-cols-1 gap-4 2xl:mx-96 2xl:px-16 lg:mx-32 mx-8 md:grid-cols-3 mb-8 l:mb:0">
       <a href="https://chrome.google.com/webstore/detail/giimcbodleepjhglbccnkccegcihjall/preview?hl=fr&authuser=0" class="flex items-center rounded-lg bg-gray-900 space-x-4 px-4 py-2">
         <img src="../assets/img/chrome.png" alt="" srcset="" class="w-8 h-8">
         <div class="flex flex-col">
@@ -28,6 +28,33 @@
       
 
     </section>
+
+    <div class="text-sm text-gray-500 2xl:mx-96 2xl:px-16 lg:mx-32 mx-8 flex justify-center items-center mb-8">
+      <div class="h-0.5 bg-gray-500 w-24"></div>
+      <p class="mx-4">Or (Native version)</p>
+      <div class="h-0.5 bg-gray-500 w-24"></div>
+    </div>
+
+
+    <section class="grid grid-cols-1 gap-4 2xl:mx-96 2xl:px-16 lg:mx-32 mx-8 md:grid-cols-2 mb-16 l:mb:0">
+      <a href="https://github.com/Mart1M/FigmaDarkUINative/releases/" class="flex items-center rounded-lg bg-gray-900 space-x-4 px-4 py-2">
+        <img src="../assets/img/apple.png" alt="" srcset="" class="w-8 h-8">
+        <div class="flex flex-col">
+          <span class="font-semibold text-white">Download for MacOS</span>
+        </div>
+      </a>
+      <a href="https://github.com/Mart1M/FigmaDarkUINative/releases/" class="flex items-center rounded-lg bg-gray-900 space-x-4 px-4 py-2">
+        <img src="../assets/img/windows.png" alt="" srcset="" class="w-8 h-8">
+        <div class="flex flex-col">
+          <span class="font-semibold text-white">Download for Windows</span>
+        </div>
+      </a>
+    </section>
+
+
+    
+
+    
      <img src="../assets/img/screen.png" alt="">
 
     
