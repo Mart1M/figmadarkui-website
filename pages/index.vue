@@ -59,7 +59,7 @@
 
     
 
-  <p class="text-gray-500 absolute bottom-0 text-sm p-2">
+  <p class="text-gray-500 fixed bottom-0 text-sm p-2">
     Made with ❤️ by <a href="https://www.linkedin.com/in/martin-molcrette-573a8017a/" target="_blank" class="underline">Martin Molcrette</a>
   </p>
 

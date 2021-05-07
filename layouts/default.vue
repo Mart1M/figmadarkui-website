@@ -27,7 +27,7 @@ html {
 
 body{
   background-color: #121212;
-  overflow: hidden;
+  
 }
 .button--green {
   display: inline-block;
