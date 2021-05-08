@@ -43,10 +43,10 @@
           <span class="font-semibold text-white">Download for MacOS</span>
         </div>
       </a>
-      <a class="flex items-center rounded-lg bg-gray-900 space-x-4 px-4 py-2 windows">
+      <a href="https://github.com/Mart1M/FigmaDarkUINative/releases/" class="flex items-center rounded-lg bg-gray-900 space-x-4 px-4 py-2 windows">
         <img src="../assets/img/windows.png" alt="" srcset="" class="w-8 h-8">
         <div class="flex flex-col">
-          <span class="font-semibold text-gray-500">Download for Windows (coming soon)</span>
+          <span class="font-semibold text-white">Download for Windows</span>
         </div>
       </a>
     </section>
