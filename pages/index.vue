@@ -9,7 +9,7 @@
       class="grid grid-cols-1 gap-4 2xl:mx-96 2xl:px-16 lg:mx-32 mx-8 md:grid-cols-3 mb-8 l:mb:0"
     >
       <a
-        href="https://chrome.google.com/webstore/detail/giimcbodleepjhglbccnkccegcihjall/preview?hl=fr&authuser=0"
+        href="https://chrome.google.com/webstore/detail/giimcbodleepjhglbccnkccegcihjall/"
         class="flex items-center rounded-lg bg-gray-900 space-x-4 px-4 py-2"
       >
         <img src="../assets/img/chrome.png" alt="" srcset="" class="w-8 h-8" />
