@@ -10,7 +10,7 @@
       />
       <p class="text-gray-500 mb-16">Not affiliated with Figma</p>
     </div>
-    <section class="grid grid-cols-1 gap-4 2xl:mx-96 2xl:px-16 lg:mx-32 mx-8 md:grid-cols-3 mb-8 l:mb:0">
+    <section class="grid grid-cols-1 gap-4 2xl:mx-96 2xl:px-16 lg:mx-32 mx-8 md:grid-cols-2 mb-8 l:mb:0">
       <a
         href="https://chrome.google.com/webstore/detail/giimcbodleepjhglbccnkccegcihjall/"
         class="flex items-center rounded-lg bg-gray-900 space-x-4 px-4 py-2"
